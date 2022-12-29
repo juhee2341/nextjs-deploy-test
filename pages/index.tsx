@@ -39,6 +39,10 @@ export default function Home() {
           </div>
         </div>
 
+        <div>
+          <h1 style={{ color: 'pink' }}>NEXT.js Deploy Test !!!</h1>
+        </div>
+
         <div className={styles.center}>
           <Image
             className={styles.logo}
